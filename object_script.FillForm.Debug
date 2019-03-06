@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\dictionarysearch.o
+./debug\elementarysurfacetab.o
+./debug\blockstab.o
+./debug\blockssubtab.o
+./debug\addingnewelementarysurfacewindow.o
+./debug\jsonInteractions.o
+./debug\fillform_plugin_import.o
+./debug\moc_mainwindow.o
+./debug\moc_dictionarysearch.o
+./debug\moc_elementarysurfacetab.o
+./debug\moc_blockstab.o
+./debug\moc_blockssubtab.o
+./debug\moc_addingnewelementarysurfacewindow.o
+);

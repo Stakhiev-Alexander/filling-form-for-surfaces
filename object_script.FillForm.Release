@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dictionarysearch.o
+./release\elementarysurfacetab.o
+./release\blockstab.o
+./release\blockssubtab.o
+./release\addingnewelementarysurfacewindow.o
+./release\jsonInteractions.o
+./release\fillform_plugin_import.o
+./release\moc_mainwindow.o
+./release\moc_dictionarysearch.o
+./release\moc_elementarysurfacetab.o
+./release\moc_blockstab.o
+./release\moc_blockssubtab.o
+./release\moc_addingnewelementarysurfacewindow.o
+);
