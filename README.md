@@ -1,6 +1,14 @@
 # filling-form-for-surfaces
 Prototype of the GUI for filling data about elementary surfaces and their groups.
 
+
+![higherLVLofSTFF](https://user-images.githubusercontent.com/45343055/54871612-0093e080-4dc8-11e9-80ab-274f3cbc5d30.jpg)
+
+
+
+![STTF_project](https://user-images.githubusercontent.com/45343055/54871605-eeb23d80-4dc7-11e9-8fc0-261da18e3d2d.jpg)
+
+
 #### Элементы интерфейса:
 
 * надпись про текущую поверхность
